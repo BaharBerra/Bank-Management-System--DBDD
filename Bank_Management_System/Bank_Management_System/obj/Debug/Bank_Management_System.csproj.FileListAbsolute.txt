@@ -1,0 +1,16 @@
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.exe.config
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.exe
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\bin\Debug\Bank_Management_System.pdb
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.AssemblyReference.cache
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.Form1.resources
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.GenerateResource.cache
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.exe
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.pdb
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.LoginForm.resources
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.MainForm.resources
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.DashboardForm.resources
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.Loans.resources
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.LoansForm.resources
+C:\Users\Bahar\Desktop\BANK_BAHAR\Bank_Management_System\Bank_Management_System\obj\Debug\Bank_Management_System.TransactionsForm.resources

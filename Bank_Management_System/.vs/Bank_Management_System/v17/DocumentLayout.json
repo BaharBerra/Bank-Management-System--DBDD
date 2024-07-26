@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|c:\\users\\bahar\\desktop\\bank_bahar\\bank_management_system\\bank_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\transactionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\transactionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\datatransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\datatransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\dataloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\dataloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\bank_management_system\\loansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C38B4C9-B9C8-4F32-98D2-EDD13340AA03}|Bank_Management_System\\Bank_Management_System.csproj|solutionrelative:bank_management_system\\loansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\MainForm.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\MainForm.cs",
+              "RelativeToolTip": "Bank_Management_System\\MainForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwEgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T21:28:42.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\MainForm.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\MainForm.cs [Design]",
+              "RelativeToolTip": "Bank_Management_System\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T12:19:13.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\MainForm.Designer.cs",
+              "RelativeToolTip": "Bank_Management_System\\MainForm.Designer.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAEwNAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-04T06:48:45.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\TransactionsForm.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\TransactionsForm.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\TransactionsForm.cs",
+              "RelativeToolTip": "Bank_Management_System\\TransactionsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-03T17:00:02.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\DataTransactions.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\DataTransactions.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\DataTransactions.cs",
+              "RelativeToolTip": "Bank_Management_System\\DataTransactions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:35:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\LoginForm.cs",
+              "RelativeToolTip": "Bank_Management_System\\LoginForm.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:23:13.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\Program.cs",
+              "RelativeToolTip": "Bank_Management_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:18:07.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\Form1.cs [Design]",
+              "RelativeToolTip": "Bank_Management_System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T20:30:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loans.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\Loans.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\Loans.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\Loans.cs [Design]",
+              "RelativeToolTip": "Bank_Management_System\\Loans.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T20:39:59.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataLoans.cs",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\DataLoans.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\DataLoans.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\DataLoans.cs",
+              "RelativeToolTip": "Bank_Management_System\\DataLoans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:08:40.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoansForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\LoansForm.cs",
+              "RelativeDocumentMoniker": "Bank_Management_System\\LoansForm.cs",
+              "ToolTip": "C:\\Users\\Bahar\\Desktop\\BANK_BAHAR\\Bank_Management_System\\Bank_Management_System\\LoansForm.cs [Design]",
+              "RelativeToolTip": "Bank_Management_System\\LoansForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-03T16:51:28.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
