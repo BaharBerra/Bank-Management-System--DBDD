@@ -18,8 +18,8 @@ This project involves designing and implementing a comprehensive database system
 
 ![Ekran görüntüsü 2024-07-26 180928](https://github.com/user-attachments/assets/4293f50f-9e9f-4083-afa1-7370cd7fd12d)
 
+![Ekran görüntüsü 2024-07-26 202052](https://github.com/user-attachments/assets/ca687b7a-61a5-48dc-afa7-dc2d13be7f80)
 
-![Ekran görüntüsü 2024-07-26 180937](https://github.com/user-attachments/assets/b68197b3-062a-478c-afa7-fca1883c938b)
 
 
 ## Database Structure
